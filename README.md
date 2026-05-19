@@ -40,4 +40,4 @@ A Power BI dashboard that tracks monthly revenue against targets, broken down by
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rafael-narciso-875a40188/)) or open an issue for questions and suggestions.
+Feel free to connect on [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/rafael-narciso-875a40188/) or open an issue for questions and suggestions.

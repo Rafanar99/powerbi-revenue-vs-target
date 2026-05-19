@@ -38,8 +38,6 @@ A Power BI dashboard that tracks monthly revenue against targets, broken down by
 
 ---
 
----
-
 ## 📬 Contact
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com) or open an issue for questions and suggestions.
